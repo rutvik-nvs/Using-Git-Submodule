@@ -1,0 +1,4 @@
+[submodule "parent"]
+	path = parent
+	url = https://github.com/rutvik-nvs/Using-Git-Submodule.git
+	branch = submodule
